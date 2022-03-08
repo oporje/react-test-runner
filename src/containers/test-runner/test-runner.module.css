@@ -1,0 +1,10 @@
+.testSummaryContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+.runButton {
+    text-transform: uppercase;
+    font-weight: bold;
+}

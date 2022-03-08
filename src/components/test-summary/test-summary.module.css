@@ -1,0 +1,27 @@
+.summarySection {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.statusName {
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.testName {
+    text-transform: uppercase;
+    margin-left: 0.5rem;
+}
+
+.testCount {
+    font-weight: bold;
+}
+
+.testSummaryContainer {
+    margin: 1rem;
+}
+
+.checkmark {
+    margin-left: 0.5rem;
+}

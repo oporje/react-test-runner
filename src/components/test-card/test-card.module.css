@@ -1,0 +1,21 @@
+.description {
+    text-transform: capitalize;
+    padding: 1rem;
+}
+
+.status {
+    text-transform: capitalize;
+    padding: 1rem;
+}
+
+.Passed {
+    background-color: green;
+}
+
+.Failed {
+    background-color: red;
+}
+
+.Running {
+    background-color: orange;
+}
